@@ -86,3 +86,4 @@ Super People is a fast-paced, class-based battle royale where every advantage ma
   <img src="https://img.shields.io/badge/version-2025-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/mode-stealth_mode_enabled-lightgrey?style=for-the-badge" />
 </p>
+ 
